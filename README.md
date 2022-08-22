@@ -6,6 +6,7 @@ The application measures the body size using the height. It displays 5 dimension
 
 <br>This application runs throught the Jupyter Notebook file scripted by Python. How does it work? 
 
+0. Check the 'run.ipynb' file first. It's an operation file.
 <br>1. Change the 'image_route' and 'side_image_route' with the route of images the user wants to put. <br>
 (The default images are set and you can try these if you want to check the running of the app without other images. Yes. They are me. I should have tightened my abdomen.) 
 <br>2. Change 'output_route' to the name of file you want to get. Normally .png, .jpg are the safe options.
